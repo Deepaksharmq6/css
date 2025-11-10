@@ -1,0 +1,51 @@
+body {
+    font-family: 'Georgia', serif;
+    background: #fff;
+    padding: 30px;
+}
+
+.heading {
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 25px;
+}
+
+.card {
+    display: inline-block;
+    width: 210px;
+    height: 540px;
+    vertical-align: top;
+    margin-right: 30px;
+    text-align: center;
+    border-radius: 6px;
+    box-sizing: border-box;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.1);
+    margin-bottom: 10px;
+}
+
+.book {
+    background: #f7ec7d;
+    color: #000000;
+}
+
+.headphones {
+    background: #eba7b1;
+    color: #000000;
+}
+
+.watch {
+    background: #d7e8ef;
+    color: #000000;
+}
+
+.product {
+    font-size: 1.5em;
+    font-weight: bold;
+    padding-top: 55px;
+    margin-bottom: 30px;
+}
+
+.price {
+    font-size: 1.2em;
+    margin-top: 40px;
+}
