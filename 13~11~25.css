@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(255, 255, 255);
+    font-family: serif;
+}
+
+.float-img {
+    float: left;
+    width: 150px;
+    height: 200px;
+    margin: 10px;
+}
+
+.container {
+    overflow: auto;
+    background: #f9d3e3; 
+    padding: 20px;
+}
+
+h2 {
+    color: #000000;
+}
+ .footer {
+  clear: both;
+  background-color: #e0e0e0; /* optional styling */
+  padding: 8px;              /* optional styling */
+}
